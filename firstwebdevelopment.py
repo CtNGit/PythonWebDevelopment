@@ -1,1 +1,1 @@
-print("this is my first web devleopment.")
+print("this is my first web development.")
